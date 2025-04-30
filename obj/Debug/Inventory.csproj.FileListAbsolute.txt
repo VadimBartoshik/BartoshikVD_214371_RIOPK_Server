@@ -1,0 +1,93 @@
+C:\Users\vadik\source\repos\OOPIP — копия\bin\Debug\OOPIP.exe.config
+C:\Users\vadik\source\repos\OOPIP — копия\bin\Debug\OOPIP.exe
+C:\Users\vadik\source\repos\OOPIP — копия\bin\Debug\OOPIP.pdb
+C:\Users\vadik\source\repos\OOPIP — копия\bin\Debug\MaterialSkin.dll
+C:\Users\vadik\source\repos\OOPIP — копия\bin\Debug\MySql.Data.dll
+C:\Users\vadik\source\repos\OOPIP — копия\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\vadik\source\repos\OOPIP — копия\bin\Debug\MySql.Web.dll
+C:\Users\vadik\source\repos\OOPIP — копия\bin\Debug\Google.Protobuf.dll
+C:\Users\vadik\source\repos\OOPIP — копия\bin\Debug\ZstdNet.dll
+C:\Users\vadik\source\repos\OOPIP — копия\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\vadik\source\repos\OOPIP — копия\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vadik\source\repos\OOPIP — копия\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\vadik\source\repos\OOPIP — копия\bin\Debug\System.Buffers.dll
+C:\Users\vadik\source\repos\OOPIP — копия\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\vadik\source\repos\OOPIP — копия\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\vadik\source\repos\OOPIP — копия\bin\Debug\MySql.Data.xml
+C:\Users\vadik\source\repos\OOPIP — копия\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\vadik\source\repos\OOPIP — копия\bin\Debug\MySql.Web.xml
+C:\Users\vadik\source\repos\OOPIP — копия\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\Users\vadik\source\repos\OOPIP — копия\obj\Debug\Inventory.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadik\source\repos\OOPIP — копия\obj\Debug\OOPIP.exe.config
+C:\Users\vadik\source\repos\OOPIP — копия\obj\Debug\Inventory.csproj.ResolveComReference.cache
+C:\Users\vadik\source\repos\OOPIP — копия\obj\Debug\OOPIP.AdminForm.resources
+C:\Users\vadik\source\repos\OOPIP — копия\obj\Debug\OOPIP.AutorizationForm.resources
+C:\Users\vadik\source\repos\OOPIP — копия\obj\Debug\OOPIP.Properties.Resources.resources
+C:\Users\vadik\source\repos\OOPIP — копия\obj\Debug\OOPIP.UserForm.resources
+C:\Users\vadik\source\repos\OOPIP — копия\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\vadik\source\repos\OOPIP — копия\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\vadik\source\repos\OOPIP — копия\obj\Debug\Inventory.csproj.CopyComplete
+C:\Users\vadik\source\repos\OOPIP — копия\obj\Debug\OOPIP.exe
+C:\Users\vadik\source\repos\OOPIP — копия\obj\Debug\OOPIP.pdb
+C:\Users\vadik\source\repos\ТПСИС\bin\Debug\OOPIP.exe.config
+C:\Users\vadik\source\repos\ТПСИС\bin\Debug\OOPIP.exe
+C:\Users\vadik\source\repos\ТПСИС\bin\Debug\OOPIP.pdb
+C:\Users\vadik\source\repos\ТПСИС\bin\Debug\MaterialSkin.dll
+C:\Users\vadik\source\repos\ТПСИС\bin\Debug\MySql.Data.dll
+C:\Users\vadik\source\repos\ТПСИС\bin\Debug\MySql.Data.EntityFramework.dll
+C:\Users\vadik\source\repos\ТПСИС\bin\Debug\MySql.Web.dll
+C:\Users\vadik\source\repos\ТПСИС\bin\Debug\Google.Protobuf.dll
+C:\Users\vadik\source\repos\ТПСИС\bin\Debug\ZstdNet.dll
+C:\Users\vadik\source\repos\ТПСИС\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\vadik\source\repos\ТПСИС\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\vadik\source\repos\ТПСИС\bin\Debug\Ubiety.Dns.Core.dll
+C:\Users\vadik\source\repos\ТПСИС\bin\Debug\System.Buffers.dll
+C:\Users\vadik\source\repos\ТПСИС\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\vadik\source\repos\ТПСИС\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\vadik\source\repos\ТПСИС\bin\Debug\MySql.Data.xml
+C:\Users\vadik\source\repos\ТПСИС\bin\Debug\MySql.Data.EntityFramework.xml
+C:\Users\vadik\source\repos\ТПСИС\bin\Debug\MySql.Web.xml
+C:\Users\vadik\source\repos\ТПСИС\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\Users\vadik\source\repos\ТПСИС\obj\Debug\Inventory.csproj.SuggestedBindingRedirects.cache
+C:\Users\vadik\source\repos\ТПСИС\obj\Debug\OOPIP.exe.config
+C:\Users\vadik\source\repos\ТПСИС\obj\Debug\Inventory.csproj.ResolveComReference.cache
+C:\Users\vadik\source\repos\ТПСИС\obj\Debug\OOPIP.AdminForm.resources
+C:\Users\vadik\source\repos\ТПСИС\obj\Debug\OOPIP.AutorizationForm.resources
+C:\Users\vadik\source\repos\ТПСИС\obj\Debug\OOPIP.Properties.Resources.resources
+C:\Users\vadik\source\repos\ТПСИС\obj\Debug\OOPIP.UserForm.resources
+C:\Users\vadik\source\repos\ТПСИС\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\Users\vadik\source\repos\ТПСИС\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\Users\vadik\source\repos\ТПСИС\obj\Debug\Inventory.csproj.CopyComplete
+C:\Users\vadik\source\repos\ТПСИС\obj\Debug\OOPIP.exe
+C:\Users\vadik\source\repos\ТПСИС\obj\Debug\OOPIP.pdb
+C:\учёба\4 семестр\ТПСИС\курсач\прога\bin\Debug\OOPIP.exe.config
+C:\учёба\4 семестр\ТПСИС\курсач\прога\bin\Debug\OOPIP.exe
+C:\учёба\4 семестр\ТПСИС\курсач\прога\bin\Debug\OOPIP.pdb
+C:\учёба\4 семестр\ТПСИС\курсач\прога\bin\Debug\MaterialSkin.dll
+C:\учёба\4 семестр\ТПСИС\курсач\прога\bin\Debug\MySql.Data.dll
+C:\учёба\4 семестр\ТПСИС\курсач\прога\bin\Debug\MySql.Data.EntityFramework.dll
+C:\учёба\4 семестр\ТПСИС\курсач\прога\bin\Debug\MySql.Web.dll
+C:\учёба\4 семестр\ТПСИС\курсач\прога\bin\Debug\Google.Protobuf.dll
+C:\учёба\4 семестр\ТПСИС\курсач\прога\bin\Debug\ZstdNet.dll
+C:\учёба\4 семестр\ТПСИС\курсач\прога\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\учёба\4 семестр\ТПСИС\курсач\прога\bin\Debug\BouncyCastle.Crypto.dll
+C:\учёба\4 семестр\ТПСИС\курсач\прога\bin\Debug\Ubiety.Dns.Core.dll
+C:\учёба\4 семестр\ТПСИС\курсач\прога\bin\Debug\System.Buffers.dll
+C:\учёба\4 семестр\ТПСИС\курсач\прога\bin\Debug\K4os.Compression.LZ4.dll
+C:\учёба\4 семестр\ТПСИС\курсач\прога\bin\Debug\K4os.Hash.xxHash.dll
+C:\учёба\4 семестр\ТПСИС\курсач\прога\bin\Debug\MySql.Data.xml
+C:\учёба\4 семестр\ТПСИС\курсач\прога\bin\Debug\MySql.Data.EntityFramework.xml
+C:\учёба\4 семестр\ТПСИС\курсач\прога\bin\Debug\MySql.Web.xml
+C:\учёба\4 семестр\ТПСИС\курсач\прога\obj\Debug\Inventory.csproj.AssemblyReference.cache
+C:\учёба\4 семестр\ТПСИС\курсач\прога\obj\Debug\Inventory.csproj.SuggestedBindingRedirects.cache
+C:\учёба\4 семестр\ТПСИС\курсач\прога\obj\Debug\OOPIP.exe.config
+C:\учёба\4 семестр\ТПСИС\курсач\прога\obj\Debug\Inventory.csproj.ResolveComReference.cache
+C:\учёба\4 семестр\ТПСИС\курсач\прога\obj\Debug\OOPIP.AdminForm.resources
+C:\учёба\4 семестр\ТПСИС\курсач\прога\obj\Debug\OOPIP.AutorizationForm.resources
+C:\учёба\4 семестр\ТПСИС\курсач\прога\obj\Debug\OOPIP.Properties.Resources.resources
+C:\учёба\4 семестр\ТПСИС\курсач\прога\obj\Debug\OOPIP.UserForm.resources
+C:\учёба\4 семестр\ТПСИС\курсач\прога\obj\Debug\Inventory.csproj.GenerateResource.cache
+C:\учёба\4 семестр\ТПСИС\курсач\прога\obj\Debug\Inventory.csproj.CoreCompileInputs.cache
+C:\учёба\4 семестр\ТПСИС\курсач\прога\obj\Debug\Inventory.csproj.CopyComplete
+C:\учёба\4 семестр\ТПСИС\курсач\прога\obj\Debug\OOPIP.exe
+C:\учёба\4 семестр\ТПСИС\курсач\прога\obj\Debug\OOPIP.pdb
